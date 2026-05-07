@@ -1,4 +1,4 @@
- Project Objective
+Project Objective
 To build an interactive dashboard for analyzing sales, profit, and customer performance using Streamlit.
 
  Tools Used
