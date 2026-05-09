@@ -17,8 +17,3 @@ To build an interactive dashboard for analyzing sales, profit, and customer perf
 - Identified top customers
 - Analyzed regional performance
 - Visualized profit and sales trends
-
- How to Run
-```bash
-pip install streamlit pandas plotly
-streamlit run app.py
